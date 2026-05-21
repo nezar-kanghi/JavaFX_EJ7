@@ -1,0 +1,1 @@
+En este ejercicio se usa un GridPane para colocar 9 botones en una cuadrícula de 3x3. Cada botón se añade indicando su columna y fila con 10px de separación entre celdas tanto horizontal como verticalmente.
